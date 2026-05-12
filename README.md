@@ -1,16 +1,15 @@
-## Hi there 👋
+# Float314
 
-<!--
-**Float314/Float314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`idk man hi ig`
 
-Here are some ideas to get you started:
+## What do i do? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CXX, and CXX. I ocasionally do C++, and CPP, but i mostly do C++. 
+
+### Hi again ig
+
+# My ideologies
+
+Free software! 
+
+<img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GNU GPL v3">
