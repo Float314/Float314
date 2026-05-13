@@ -4,7 +4,8 @@
 
 ## What do i do? 
 
-CXX, and CXX. I ocasionally do C++, and CPP, but i mostly do C++. 
+CLI applications using rust and mostly (and i mean all the time) C++. I was a geode modder (Geometry dash modding) 
+But got dismotivated :/
 
 ### Hi again ig
 
