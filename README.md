@@ -11,6 +11,6 @@ But got dismotivated :/
 
 # My ideologies
 
-Free software! 
+Free software! I support the Free software foundation!
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GNU GPL v3">
