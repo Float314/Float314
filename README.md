@@ -2,15 +2,16 @@
 
 `idk man hi ig`
 
-## What do i do? 
+## What do I do?
 
-CLI applications using rust and mostly (and i mean all the time) C++. I was a geode modder (Geometry dash modding) 
-But got dismotivated :/
+I build CLI applications using Rust and mostly (and I mean *mostly*) C++.
 
-### Hi again ig
+I also used to make mods for Geometry Dash using Geode before motivation hit the void :/
 
-# My ideologies
+## Ideologies
 
-Free software! I support the Free software foundation!
+- Free Software supporter
+- Supporter of the Free Software Foundation
+- Tools should be understandable, accessible, and open
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GNU GPL v3">
