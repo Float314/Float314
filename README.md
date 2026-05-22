@@ -5,6 +5,7 @@
 ## What do I do?
 
 I build CLI applications using Rust and mostly (and I mean *mostly*) C++.
+I strongly advocate for Free software foundation also :)
 
 I also used to make mods for Geometry Dash using Geode before motivation hit the void :/
 
@@ -26,3 +27,7 @@ Installing Gigabytes sized compiler like clang-cl (shoutout to them tho)* - Me p
 - Tools should be understandable, accessible, and open
 
 <img src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GNU GPL v3">
+
+My stack btw (not full) 
+
+![My Skills](https://skillicons.dev/icons?i=cpp,vscode,debian)
