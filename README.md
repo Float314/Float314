@@ -2,12 +2,13 @@
 
 `idk man hi ig`
 
+Contact - `<float314@proton.me>`
+`@float_3.14159` - Discord
+
 ## What do I do?
 
 I build CLI applications using Rust and mostly (and I mean *mostly*) C++.
 I strongly advocate for Free software foundation also :)
-
-I also used to make mods for Geometry Dash using Geode before motivation hit the void :/
 
 ## Goals
 
@@ -30,4 +31,4 @@ Installing Gigabytes sized compiler like clang-cl (shoutout to them tho)* - Me p
 
 My stack btw (not full) 
 
-![My Skills](https://skillicons.dev/icons?i=cpp,vscode,debian)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,vscode,debian)
